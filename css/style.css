@@ -1,0 +1,52 @@
+.container{
+  display: flex;
+}
+
+.chartsSection{
+  background-color: #012169;
+  width: 125vh;
+  height: 70vh;
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+.detailsSection{
+  width: 125vh;
+  height: 70vh;
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+.listSection{
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  margin-left: 320px;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+body{
+  background-color: #041E42;
+}
+
+p {
+  font-size: 14px; /* Example font size for paragraphs */
+}
+
+button {
+  background-color: #012169;
+  color: white;
+}
+
+.currentStockInfo{
+  display: flex;
+  flex-direction: row;
+}
+
+h2 {
+  color: white;
+}
